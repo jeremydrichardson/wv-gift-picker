@@ -16,10 +16,10 @@ November 2026 (`src/data/gifts.ts`).
 ## Development
 
 ```bash
-npm install
-npm run dev      # http://localhost:5173
-npm run build    # type-check + production build into dist/
-npm run lint
+pnpm install
+pnpm dev         # http://localhost:5173
+pnpm build       # type-check + production build into dist/
+pnpm lint
 ```
 
 Built with Vite, React, TypeScript and [@dnd-kit](https://dndkit.com/) for mouse and touch drag-and-drop.

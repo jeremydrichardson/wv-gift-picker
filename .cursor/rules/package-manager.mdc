@@ -1,0 +1,5 @@
+---
+description: Use pnpm as the package manager
+alwaysApply: true
+---
+This project uses pnpm. Use `pnpm install`, `pnpm add`, `pnpm <script>` and `pnpm dlx` instead of npm, npx or yarn, and keep `pnpm-lock.yaml` as the only lockfile.
